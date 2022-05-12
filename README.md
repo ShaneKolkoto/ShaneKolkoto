@@ -15,7 +15,7 @@
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sfm1xsql1e0u7jtxp8gukgxos&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/sfm1xsql1e0u7jtxp8gukgxos)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sfm1xsql1e0u7jtxp8gukgxos&unique&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/sfm1xsql1e0u7jtxp8gukgxos)
 
 ---
 
