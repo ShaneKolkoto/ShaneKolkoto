@@ -42,3 +42,7 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanekolkoto&show_icons=true&locale=en&layout=compact" alt="shanekolkoto" width=""/></p>
+
+<h3 align="left">Quote Of The Day</h3>
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+
