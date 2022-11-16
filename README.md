@@ -2,6 +2,7 @@
 
 ### I'm [Shane Monre Kolkoto][inspiring full-stack] Web Development
 
+- © Learning everything based on C
 - 👨‍💻 Currently working on web development technologies JavaScript, VueJs, CSS etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
