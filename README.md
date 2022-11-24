@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm [Shane Monre Kolkoto][inspiring full-stack] Web Development
+### I'm [Shane Morne Kolkoto][full-stack] Web Development
 
 - © Learning everything based on C
 - 👨‍💻 Currently working on web development technologies JavaScript, VueJs, CSS etc.
@@ -14,9 +14,7 @@
 
 ### Listen with me 🎧
 
-
-[![playlist](https://spotify-github-profile.vercel.app/api/view.svg?uid=31hx33lj2u6nxphnk5siedocuc5m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color=53b14f&bar_color_cover=false)]
----
+## ![playlist](https://spotify-github-profile.vercel.app/api/view.svg?uid=31hx33lj2u6nxphnk5siedocuc5m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color=53b14f&bar_color_cover=false)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanekolkoto&label=Profile%20views&color=0e75b6&style=flat" alt="shanekolkoto" /> </p>
 
