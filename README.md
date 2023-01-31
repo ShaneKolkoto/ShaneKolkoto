@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm [Shane Morne Kolkoto][full-stack] Web Development
+### <div> Hey I'm<h2 style="text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,0 0 20px #A5F1FF, 0 0 30px #A5F1FF,0 0 40px #A5F1FF;"><a href="https://shanekolkotoportfolio.netlify.app/" style="text-decoration:none; color:#D0F8FF;">Shane Morne Kolkoto</a> </h2> <span style="color: #CCCCCC; text-shadow: 0 1px 0 #999999, 0 2px 0 #888888, 0 3px 0 #777777, 0 4px 0 #666666, 0 5px 0 #555555, 0 6px 0 #444444, 0 7px 0 #333333, 0 8px 7px rgba(0, 0, 0, 0.4), 0 9px 10px rgba(0, 0, 0, 0.2);"> Junior Software Developer  </span></div>
 
 - © Learning everything based on C
-- 👨‍💻 Currently working on web development technologies JavaScript, VueJs, CSS etc.
+- 👨‍💻 Currently working on web development technologies JavaScript, VueJs, CSS, Wordpress, Php, Nodejs etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to anime and music 🎧.
