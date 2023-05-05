@@ -1,9 +1,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### <div> Hey I'm<h2 style="text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,0 0 20px #A5F1FF, 0 0 30px #A5F1FF,0 0 40px #A5F1FF;"><a href="https://shanekolkotoportfolio.netlify.app/" style="text-decoration:none; color:#D0F8FF;">Shane Morne Kolkoto</a> </h2> <span style="color: #CCCCCC; text-shadow: 0 1px 0 #999999, 0 2px 0 #888888, 0 3px 0 #777777, 0 4px 0 #666666, 0 5px 0 #555555, 0 6px 0 #444444, 0 7px 0 #333333, 0 8px 7px rgba(0, 0, 0, 0.4), 0 9px 10px rgba(0, 0, 0, 0.2);"> Junior Software Developer  </span></div>
-
+## Hey I'm
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shane+Morne+Kolkoto;Junior+Software+Developer;Visit+My+Portfolio;Click+Here)](https://shanekolkotoportfolio.netlify.app/)
+  
 - © Learning everything based on C
-- 👨‍💻 Currently working on web development technologies JavaScript, VueJs, CSS, Wordpress, Php, Nodejs etc.
+- 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Php`, `Nodejs` etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to anime and music 🎧.
@@ -16,8 +17,7 @@
 
 ## ![playlist](https://spotify-github-profile.vercel.app/api/view.svg?uid=31hx33lj2u6nxphnk5siedocuc5m&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color=53b14f&bar_color_cover=false)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanekolkoto&label=Profile%20views&color=0e75b6&style=flat" alt="shanekolkoto" /> </p>
-
+<h3 align="left">Github</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanekolkoto" alt="shanekolkoto" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -39,4 +39,4 @@
 
 <h2 align="left">Quote Of The Day</h2>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
