@@ -20,7 +20,7 @@
 <h3 align="left">Github</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shanekolkoto&show_icons=true&locale=en&layout=compact" alt="shanekolkoto" width="50%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanekolkoto&show_icons=true&locale=en&layout=compact" alt="shanekolkoto" width="40%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanekolkoto&show_icons=true&locale=en&layout=compact" alt="shanekolkoto" width="38%"/>
 
 </p>
 
