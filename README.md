@@ -2,12 +2,16 @@
 
 ## Hey I'm
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shane+Morne+Kolkoto;Junior+Software+Developer;Visit+My+Portfolio;Click+Here)](https://shanekolkotoportfolio.netlify.app/)
+
+
   
-- © Learning everything based on C
-- 👨‍💻 Currently working on web development technologies `JavaScript`, `VueJs`, `ReactJs`, `CSS`, `Wordpress`, `Php`, `Nodejs` etc.
+- Learning everything based Web development and Mobile Application Development
+- 👨‍💻 Currently working on web development technologies `Typescript`, `VueJs`, `ReactJs`, `Tailwind`, `Liquid`, `NextJs`, `Nodejs` etc.
 - 📚 Learning everything about Frontend and Backend technologies 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to anime and music 🎧.
+
+<a href="https://shanekolkotoportfolio.netlify.app/"><h3>👉🏼 Visit my portfolio 👈🏼</h3></a>
 
 ---
 
