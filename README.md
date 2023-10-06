@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://shanekolkotoportfolio.netlify.app/images/logos/bitmoji.png" />
 
 ## Hey I'm
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Shane+Morne+Kolkoto;Junior+Software+Developer;Visit+My+Portfolio;Click+Here)](https://shanekolkotoportfolio.netlify.app/)
